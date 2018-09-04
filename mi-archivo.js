@@ -1,1 +1,2 @@
-alert("es una alerta")
+alert("archivo editado")
+
